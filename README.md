@@ -1,8 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# BYD - Brew Your Day Newsletter
 
-Currently, two official plugins are available:
+Newsletter for BYD Cafe. For WE22 Assignment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/riaanjlagrange/byd-newsletter
+```
+
+Go to the project directory
+
+```bash
+  cd byd-newsletter
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Tech Stack
+
+**Client:** React, TailwindCSS
+
+
+## Screenshots
+
+![App Screenshot](md/preview.png)
+
